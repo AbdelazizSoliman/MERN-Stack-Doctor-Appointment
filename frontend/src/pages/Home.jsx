@@ -187,7 +187,7 @@ const Home = () => {
               <div className="container">
                 <div className="xl:w-[470px] mx-auto">
                   <h2 className="heading text-center">What our patients say</h2>
-                  <p className="text_para text-center">World class</p>
+                  <p className="text_para text-center">The staff is incredibly knowledgeable and compassionate, making me feel valued and respected as a patient.</p>
                 </div>
                 <Testimonial />
               </div>
